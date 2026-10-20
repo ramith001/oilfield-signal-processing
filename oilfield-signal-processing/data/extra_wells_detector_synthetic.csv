@@ -1,0 +1,12 @@
+injected_A,regular_event_rate,any_candidate_rate,label_matches_injected,injected_class
+0.0,0.37,0.64,,none
+0.05,0.36,0.65,0.0,none
+0.1,0.44,0.71,0.0,none
+0.15,0.47,0.67,0.3829787234042553,low
+0.2,0.68,0.86,0.20588235294117646,low
+0.3,0.89,0.96,0.7865168539325843,moderate
+0.45,1.0,1.0,0.79,moderate
+0.6,1.0,1.0,0.67,high
+0.8,1.0,1.0,0.85,high
+1.0,1.0,1.0,0.53,severe
+1.2,1.0,1.0,0.89,severe

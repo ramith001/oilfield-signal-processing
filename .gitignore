@@ -1,3 +1,4 @@
 raw_xml/
 __pycache__/
 f4_log8_channels.csv
+**/_*.zip
