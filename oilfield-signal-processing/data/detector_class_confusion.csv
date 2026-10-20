@@ -1,0 +1,6 @@
+,index: none,index: low,index: moderate,index: high,index: severe
+detector: none,1524,262,79,82,86
+detector: low,0,0,34,36,0
+detector: moderate,0,0,0,101,157
+detector: high,0,0,0,0,0
+detector: severe,0,0,0,0,0
